@@ -264,5 +264,9 @@ else if (text == "*")
 else if (text == "/")
 {
     result = num1 / num2;
+    if (num1 == 0)
+    {
+        Console.WriteLine("num1에 0은 입력 불가능합니다.");
+    }
 }
 Console.WriteLine($"결과: {result}");
