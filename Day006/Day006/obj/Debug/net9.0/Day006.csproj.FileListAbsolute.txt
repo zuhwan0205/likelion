@@ -1,0 +1,15 @@
+C:\Users\sp079\Desktop\likelion\Day006\Day006\bin\Debug\net9.0\Day006.exe
+C:\Users\sp079\Desktop\likelion\Day006\Day006\bin\Debug\net9.0\Day006.deps.json
+C:\Users\sp079\Desktop\likelion\Day006\Day006\bin\Debug\net9.0\Day006.runtimeconfig.json
+C:\Users\sp079\Desktop\likelion\Day006\Day006\bin\Debug\net9.0\Day006.dll
+C:\Users\sp079\Desktop\likelion\Day006\Day006\bin\Debug\net9.0\Day006.pdb
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.AssemblyInfoInputs.cache
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.AssemblyInfo.cs
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.csproj.CoreCompileInputs.cache
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.sourcelink.json
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.dll
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\refint\Day006.dll
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.pdb
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\Day006.genruntimeconfig.cache
+C:\Users\sp079\Desktop\likelion\Day006\Day006\obj\Debug\net9.0\ref\Day006.dll

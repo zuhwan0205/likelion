@@ -1,0 +1,15 @@
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\bin\Debug\net9.0\SlayTheSpireConsole.exe
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\bin\Debug\net9.0\SlayTheSpireConsole.deps.json
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\bin\Debug\net9.0\SlayTheSpireConsole.runtimeconfig.json
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\bin\Debug\net9.0\SlayTheSpireConsole.dll
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\bin\Debug\net9.0\SlayTheSpireConsole.pdb
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.AssemblyInfoInputs.cache
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.AssemblyInfo.cs
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.csproj.CoreCompileInputs.cache
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.sourcelink.json
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.dll
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\refint\SlayTheSpireConsole.dll
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.pdb
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\SlayTheSpireConsole.genruntimeconfig.cache
+C:\Users\sp079\Desktop\likelion\ConsoleRPG\SlayTheSpireConsole\obj\Debug\net9.0\ref\SlayTheSpireConsole.dll
